@@ -9,4 +9,4 @@ A bi-manual robot that trims bonsai trees. An artistic study in needlessly autom
 - Episode recording script using this new class
 
 ## License
-This project is licensed under MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)
+This project is licensed under [MIT license](http://opensource.org/licenses/MIT)
