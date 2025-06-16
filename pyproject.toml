@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
+license = { text = "MIT OR Apache-2.0" }
 dependencies = [
     "lerobot",
     "mujoco>=3.3.3",
